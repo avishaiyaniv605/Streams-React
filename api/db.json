@@ -1,16 +1,22 @@
 {
   "streams": [
     {
-      "title": "adasd",
-      "description": "asdasdasd",
+      "title": "First Stream",
+      "description": "This is the description for first stream",
       "userId": "110802442129835628691",
-      "id": 1
+      "id": 3
     },
     {
-      "title": "asdasdasd",
-      "description": "asdasdasd",
+      "title": "Just to chekc",
+      "description": "checking",
       "userId": "110802442129835628691",
-      "id": 2
+      "id": 4
+    },
+    {
+      "title": "MY Desktop",
+      "description": "Streaming my desktop",
+      "userId": "110802442129835628691",
+      "id": 5
     }
   ]
 }
